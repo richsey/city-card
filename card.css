@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e49f9f;
+  height: 100vh;
+}
+.city-card {
+  border-radius: 10px;
+  background-color: #fff;
+  width: 360px;
+  height: 540px;
+  border: none;
+  padding: 15px;
+  box-shadow: 7px 7px 5px;
+}
+
+.city-image {
+  margin-bottom: 40px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.city-cate {
+  font-size: 10px;
+  background-color: #e49f9f;
+  padding: 8px;
+  border-radius: 10px;
+  width: fit-content;
+  margin-bottom: 5px;
+}
+
+.learn-more-button {
+  color: #e49f9f;
+  text-decoration: none;
+}
+
+.city-description {
+  color: #8c8c8c;
+}
+.author {
+  margin-bottom: 10px;
+}
