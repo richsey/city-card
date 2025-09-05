@@ -1,4 +1,4 @@
-# Dream City - Paris
+# Dream City - Accra
 
 ## New Tags Learned
 
